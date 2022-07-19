@@ -109,7 +109,6 @@
 ![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=aasisodiya.aasisodiya&labelColor=%23ffa500&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=aasisodiya.aasisodiya)
 
 ## Find Me @
 
@@ -122,6 +121,7 @@
 
 ---
 
+[![Tracker](https://api.visitorbadge.io/api/visitors?path=aasisodiya.aasisodiya&label=tracker&labelColor=%23555555&countColor=%23ffa500&labelStyle=upper)](https://visitorbadge.io/status?path=aasisodiya.aasisodiya)
 ![Profile last updated](https://img.shields.io/github/last-commit/aasisodiya/aasisodiya/master?label=Last%20updated&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/aasisodiya?label=Followers&logo=GitHub&style=for-the-badge)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=aasisodiya.aasisodiya)

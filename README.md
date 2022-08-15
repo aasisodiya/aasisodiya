@@ -67,6 +67,8 @@
 
 [![GithubSkyline](./skyline.png)](https://skyline.github.com/aasisodiya/2021)
 
+[![AASISODIYA Wrapped Run](https://img.shields.io/badge/my%20year%20in%20review-click%20here-orange?style=for-the-badge)](https://aasisodiya.wrapped.run)
+
 ## Technologies I Work With In My Spare Time
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)

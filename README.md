@@ -59,6 +59,8 @@
 
 ## My Github Stats
 
+[![AASISODIYA Wrapped Run](./wrapped_aasisodiya.png)](https://aasisodiya.wrapped.run)
+
 ![aasisodiya's github stats](https://github-readme-stats.vercel.app/api?username=aasisodiya&show_icons=true&theme=highcontrast)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=aasisodiya&theme=gruvbox&no-frame=false&row=2&&margin-w=20&no-bg=false)
@@ -67,7 +69,7 @@
 
 [![GithubSkyline](./skyline.png)](https://skyline.github.com/aasisodiya/2021)
 
-[![AASISODIYA Wrapped Run](https://img.shields.io/badge/my%20year%20in%20review-click%20here-orange?style=for-the-badge)](https://aasisodiya.wrapped.run)
+<!-- [![AASISODIYA Wrapped Run](https://img.shields.io/badge/my%20year%20in%20review-click%20here-orange?style=for-the-badge)](https://aasisodiya.wrapped.run) -->
 
 ## Technologies I Work With In My Spare Time
 

@@ -119,11 +119,12 @@
 ## Find Me @
 
 [![Linkedin Badge](https://img.shields.io/badge/-aasisodiya-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aasisodiya/)](https://www.linkedin.com/in/aasisodiya/)
+[![Thingiverse](https://img.shields.io/badge/AASISODIYA-248BFB.svg?style=for-the-badge&logo=Thingiverse&logoColor=white)](https://www.thingiverse.com/aasisodiya/designs)
 [![Medium Badge](https://img.shields.io/badge/-aasisodiya-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@aasisodiya/)](https://medium.com/@aasisodiya)
 [![Behance Badge](https://img.shields.io/badge/-aasisodiya-blue?style=for-the-badge&logo=behance&logoColor=darkblue)](https://www.behance.net/aasisodiya)
 [![Sketchfab Badge](https://img.shields.io/badge/-aasisodiya-cyan?style=for-the-badge&logo=sketchfab&logoColor=darkblue)](https://www.sketchfab.com/aasisodiya)
 [![Facebook Badge](https://img.shields.io/badge/-aasisodiya-darkblue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aasisodiya)
-[![Twitter Badge](https://img.shields.io/badge/-aasisodiya-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=aasisodiya)
+[![X Badge](https://img.shields.io/badge/-aasisodiya-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/intent/follow?screen_name=aasisodiya)
 
 ---
 

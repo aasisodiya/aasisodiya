@@ -3,8 +3,8 @@
 ## About Me
 
 - 🖥️ I'm a Software Engineer from India.
-- 👨‍💻 I'm currently working as Go Lang Developer and AWS Cloud Engineer
-- 🤓 I'm a self-taught Designer, and a VR/AR Developer
+- 👨‍💻 I'm currently working as Go Lang & C# Developer and Multi-Cloud Engineer (AWS & Azure)
+- 🤓 I'm a self-taught Designer, and a VR/AR Developer, also Azure Data Engineer Certified (DP-203)
 - 🔭 In my personal time I like working on Web App Development & 3D Modeling
 - 🌱 I’m currently learning React Native & 3D Modeling
 - 👯 I’m looking to collaborate on Educational App
@@ -21,7 +21,7 @@
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/product)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Brave browser](https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![curl](https://img.shields.io/badge/curl-073551?style=for-the-badge&logo=curl&logoColor=white)](https://curl.se/)
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
 [![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
@@ -32,7 +32,7 @@
 [![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)](https://insomnia.rest/)
-[![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)](https://www.java.com/en/)
+[![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
@@ -130,4 +130,3 @@
 [![Tracker](https://api.visitorbadge.io/api/visitors?path=aasisodiya.aasisodiya&label=tracker&labelColor=%23555555&countColor=%23ffa500&labelStyle=upper)](https://visitorbadge.io/status?path=aasisodiya.aasisodiya)
 ![Profile last updated](https://img.shields.io/github/last-commit/aasisodiya/aasisodiya/master?label=Last%20updated&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/aasisodiya?label=Followers&logo=GitHub&style=for-the-badge)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=aasisodiya.aasisodiya)

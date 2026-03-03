@@ -3,10 +3,10 @@
 ## About Me
 
 - 🖥️ I'm a Software Engineer from India.
-- 👨‍💻 I'm currently working as Go Lang & C# Developer and Multi-Cloud Engineer (AWS & Azure)
+- 👨‍💻 I'm currently working as Go Lang & C# Developer, Multi-Cloud Engineer (AWS & Azure) and Microsoft Copilot Agent Developer
 - 🤓 I'm a self-taught Designer, and a VR/AR Developer, also Azure Data Engineer Certified (DP-203)
 - 🔭 In my personal time I like working on Web App Development & 3D Modeling
-- 🌱 I’m currently learning React Native & 3D Modeling
+- 🌱 I’m currently learning Agentic Development & 3D Modeling
 - 👯 I’m looking to collaborate on Educational App
 - 💬 Ask me anything about Physics, my Tech Stack or Movies and TV Series
 - 😄 Pronouns: He/Him
@@ -27,6 +27,7 @@
 [![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)](https://filezilla-project.org/)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aasisodiya)
+[![Github Copilot](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)

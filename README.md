@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🖥️ Software Engineer from India with **9+ years** of professional experience (11+ including internships)
+- 🖥️ Software Engineer from India with **9+ years** of professional experience
 - 👨‍💻 Currently working as an **AI Software Developer / Data Engineer** at **Unify Dots**
 - ☁️ 8+ years building web applications, APIs and data platforms on **AWS** and **Azure** using Go, C#, Node.js and Python
 - 🤖 Building production AI agents with **Microsoft Copilot Studio**, **Microsoft 365 Copilot** and the **Power Platform**

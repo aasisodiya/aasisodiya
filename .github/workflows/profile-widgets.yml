@@ -27,7 +27,7 @@ jobs:
           git commit -m "Update 3D contributions" || exit 0
           git push
 
-  # Year calendar, habits and achievements (replaces the static wrapped.run image).
+  # Activity, community stats and year calendar (replaces the static wrapped.run image).
   # Requires a repo secret METRICS_TOKEN: a classic PAT with public_repo and read:user scopes.
   # Runs after contrib-3d so the two commits to master don't race.
   metrics:
@@ -43,8 +43,10 @@ jobs:
           base: header, activity, community
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # habits and achievements are left out: both fail with "Unexpected error" on the
+          # current GitHub API (lowlighter/metrics#1834, unmerged as of 2026-10).
+          # plugin_habits: yes
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: no
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
